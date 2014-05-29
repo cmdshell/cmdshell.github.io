@@ -1,6 +1,6 @@
 ---
 title:  微博sdk授权app过程
-author: hacker
+author: admin
 layout: post
 permalink:  /weibo-sdk-authorize-app/
 tags:

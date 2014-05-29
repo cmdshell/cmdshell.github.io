@@ -1,6 +1,6 @@
 ---
 title: 《见与不见》
-author: hacker
+author: admin
 layout: post
 permalink:  /hello-world/
 tags:

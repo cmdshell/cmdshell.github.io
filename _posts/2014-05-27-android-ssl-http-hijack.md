@@ -1,6 +1,6 @@
 ---
 title:  安卓通过http代理劫持ssl
-author: hacker
+author: admin
 layout: post
 permalink:  /android-ssl-http-hijack/
 tags:

@@ -13,11 +13,11 @@ description_length: 200
 # so be sure to set them if your theme uses them.
 #
 title : Practice. Makes. Perfect.
-tagline: "Fireweed's Blog"
+tagline: "Sec"
 author :
-  name : Fireweed
-  email : fireweed@mail.com
-  github : cnsec
+  name : admin    
+  email : admin@mail.com
+  github : cmdshell
   twitter : m4sker
   feedburner : no
 
@@ -29,7 +29,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://cnsec.github.io
+production_url : http://cmdshell.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #

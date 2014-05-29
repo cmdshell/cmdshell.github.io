@@ -23,5 +23,5 @@ group: "navigation"
 
 [weibo]: http://weibo.com/goitcn
 
-[github]: http://github.com/cnsec
+[github]: http://github.com/cmdshell
 
