@@ -1,9 +1,7 @@
 #  Introduce
 
-Hacker's World
 
-Hello Hacker,
 
-A fucking world will be waiting for you!
+##Hello friends,
 
-Enjoy it!
+##It's just another Hacker's World.
